@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/notes/static/css/main.4698702f.css",
+    "main.css": "/notes/static/css/main.712ba461.css",
     "main.js": "/notes/static/js/main.391ee1ab.js",
     "static/media/about__background.jpg": "/notes/static/media/about__background.e3f4388229bf3bc801ac.jpg",
     "static/media/gamelist.pdf": "/notes/static/media/gamelist.21660b7e2c647e86f2b4.pdf",
@@ -8,14 +8,15 @@
     "static/media/header__background.jpg": "/notes/static/media/header__background.688ca73d058bcb043ded.jpg",
     "static/media/logo.svg": "/notes/static/media/logo.668cf4096de1b045d0eceee2cbfb3a47.svg",
     "static/media/gamingBackground.png": "/notes/static/media/gamingBackground.14d62773b26a5dbbb125.png",
+    "static/media/backgroundMobile.png": "/notes/static/media/backgroundMobile.36f04af65859ec418cf8.png",
     "static/media/bean1.jpg": "/notes/static/media/bean1.6a72b13b4f9b3bd372a9.jpg",
     "static/media/bean3.jpeg": "/notes/static/media/bean3.2f144fe393d929bf2f22.jpeg",
     "index.html": "/notes/index.html",
-    "main.4698702f.css.map": "/notes/static/css/main.4698702f.css.map",
+    "main.712ba461.css.map": "/notes/static/css/main.712ba461.css.map",
     "main.391ee1ab.js.map": "/notes/static/js/main.391ee1ab.js.map"
   },
   "entrypoints": [
-    "static/css/main.4698702f.css",
+    "static/css/main.712ba461.css",
     "static/js/main.391ee1ab.js"
   ]
 }
