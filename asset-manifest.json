@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/notes/static/css/main.4f35090b.css",
-    "main.js": "/notes/static/js/main.391ee1ab.js",
+    "main.css": "/notes/static/css/main.ab3745db.css",
+    "main.js": "/notes/static/js/main.36cb67c3.js",
     "static/media/about__background.jpg": "/notes/static/media/about__background.e3f4388229bf3bc801ac.jpg",
     "static/media/gamelist.pdf": "/notes/static/media/gamelist.21660b7e2c647e86f2b4.pdf",
     "static/media/bean2.png": "/notes/static/media/bean2.f3415d84fcbb660ff87b.png",
@@ -12,11 +12,11 @@
     "static/media/bean1.jpg": "/notes/static/media/bean1.6a72b13b4f9b3bd372a9.jpg",
     "static/media/bean3.jpeg": "/notes/static/media/bean3.2f144fe393d929bf2f22.jpeg",
     "index.html": "/notes/index.html",
-    "main.4f35090b.css.map": "/notes/static/css/main.4f35090b.css.map",
-    "main.391ee1ab.js.map": "/notes/static/js/main.391ee1ab.js.map"
+    "main.ab3745db.css.map": "/notes/static/css/main.ab3745db.css.map",
+    "main.36cb67c3.js.map": "/notes/static/js/main.36cb67c3.js.map"
   },
   "entrypoints": [
-    "static/css/main.4f35090b.css",
-    "static/js/main.391ee1ab.js"
+    "static/css/main.ab3745db.css",
+    "static/js/main.36cb67c3.js"
   ]
 }
